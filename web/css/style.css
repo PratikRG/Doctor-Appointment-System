@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 10, 2018, 6:10:30 PM
+    Author     : Brothers
+*/
+body{
+    background: url("../images/group-of-doctors.jpg") no-repeat 50% 0%;
+}
+header{
+    background-color: transparent;
+    padding: 5px;
+}
+.red{
+    color:red;
+}
+.left-side{
+    background-color: #f5f2f2;
+    padding: 10px;
+    margin:0 10px;
+    height: 458px;
+}
+.right-side{
+    background-color: #f5f2f2;
+    padding: 10px;
+    margin:0 10px;
+    float: right;
+}
+.center-side{
+    background-color: transparent;
+}
+.login-doctors{
+    margin: auto;
+    float: none;
+    display: flow-root;
+    background-color: #ffffffd6;
+    border: 1px solid grey;
+}
+.tab-content{
+    background-color: #fff;
+    padding: 10px;
+    height: 200px;
+}
+.login-widget{
+    float: left;
+    display: grid;
+    margin: 20px;
+    border: 1px grey solid;
+    padding: 20px;
+}
+
+.dropdown-item{
+        display: inherit;
+    text-align: center;
+    padding: 5px;
+}
